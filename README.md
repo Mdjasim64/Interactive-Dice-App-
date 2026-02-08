@@ -43,7 +43,7 @@ Column: Arranges the Dice Row and the Roll Button vertically.
 
 Row: Contains two Expanded widgets to ensure the dice images take up equal width without overflowing.
 
-📦 Installation & Setup
+Installation & Setup
 Prerequisites: Ensure you have Flutter installed on your machine.
 
 Asset Configuration: Ensure your pubspec.yaml file includes the path to your dice images:
